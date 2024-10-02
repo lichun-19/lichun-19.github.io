@@ -16,8 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a seneior Undergraduate student at National Taiwan University (NTU) in the Department of Electrical Engineering, and a research assistant in [NTU Robot Learning Lab](https://nturll.xyz/about) working with Professor [Shao-Hua Sun](https://shaohua0116.github.io/) and am co-advised by Professor [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) on **Large Language Models' Creativity** and research the synergy of language models' in-context learning ability along with **Reinforcement Learning from Human Feedback (RLHF)**. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests span Machine Learning, Language Models's and  
+I will be visiting University of California, Los Angeles (UCLA) as a visiting research student in Professor [Nanyun Peng](https://violetpeng.github.io/)'s PLUS Lab in November for six months. Also, I am seeking a PhD position starting in Fall 2025. Please feel free to contect me via [email](b08901207@g.ntu.edu.tw) to make any discussion! 

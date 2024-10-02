@@ -87,6 +87,10 @@ layout: default
                   {% include resume/education.liquid %}
                 {% when 'work' %}
                   {% include resume/work.liquid %}
+                {% when 'internship' %}
+                  <p>Internship section detected!</p>
+                  <pre>{{ data[1] | jsonify }}</pre> <!-- This will show the raw internship data -->
+                  {% include resume/internship.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}

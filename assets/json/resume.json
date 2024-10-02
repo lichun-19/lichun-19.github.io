@@ -1,27 +1,45 @@
 {
   "basics": {
-    "name": "Li-Chun Lu",
+    "name": "Li-Chun Lu｜呂俐君",
     "image": "",
     "email": "b08901207@g.ntu.edu.tw",
     "phone": "+886 935-972650",
-    "url": "https://lichun-19.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "language": ["Mandarin - Native speaker, English - Fluent"]
   },
+  "education": [
+    {
+      "institution": "San Diego State University",
+      "location": " California, United States",
+      "url": "https://sdsu.edu/",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Exchange Student",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
+      "courses": ["Operating Systems", "Introduction to Artificial Intelligence", "Oral Communication"]
+    },
+    {
+      "institution": "National Taiwan University",
+      "location": "Taipei, Taiwan",
+      "url": "https://www.ntu.edu.tw/english/",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Science in Engineering",
+      "startDate": "2020-09",
+      "endDate": "now",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
   "work": [
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["HAHAHA"]
+    }
+  ],
+  "internship": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -42,19 +60,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "National Taiwan University, Taiwan",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
