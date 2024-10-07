@@ -2,96 +2,72 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Li-Chun (Phoebe) Lu
+    - name: Email
+      value: b08901207@g.ntu.edu.tw
+    - name: Phone
+      value: (+886)935-972650
     - name: Languages
-      value: English, German
+      value: Mandarin (Native), English (Fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science in Electrical Engineering
+      institution: National Taiwan University (NTU), Taipei, Taiwan
+      year: 09. 2020 - 06. 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Last-60-credit GPA | 4.16/4.3
+    - title: Exchange Student
+      institution: San Diego State University, California, United States
+      year: 01. - 05. 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Selected Courses | Operating Systems, Introduction to AI, Oral Communication
+        - Overall GPA | 3.93/4.0
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant, Undergraduate Researcher
+      institution: Robot Learning Lab (RLL), NTU
+      year: 10. 2023 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed a three-phase discussion framework incorporating role-playing for LLM agents, improving creative performance by 20%.
+        - Devised an LLM evaluation mechanism, demonstrating a 0.7 correlation between LLM and human evaluations.
+    - title: Undergraduate Researcher
+      institution: Deep Learning Human Language Processing Lab (DLHLP), NTU
+      year: 07. 2023 – Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Proposed and processed the dataset "Third Tone Sandhi Recognition in Mandarin" for Dynamic-SUPERB.
+        - Applied DPO reinforcement learning to improve voice conversion models.
+    - title: Undergraduate Researcher
+      institution: Human Computer Interaction Lab (HCI), NTU
+      year: 10. 2023 – 02. 2024
       description:
+        - Presented game at the Student Game Competition.
+        - Collected and analyzed MRT speed data to validate research hypotheses.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching Assistant (TA)
+      institution: NTU
+      year: 02. 2024 – 06. 2024
+      description:
+        - Assisted in a course on Generative AI, collaborated with 37 TAs, and handled questions from 1,000 students and auditors.
+        - Designed slides and an LLM essay evaluation system for prompting practice.
 
-- title: Honors and Awards
+- title: Internship
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Collaboration Intern
+      institution: NTU Y.L. Lin Program, Taiwan FactCheck Center
+      year: 12. 2023 – 05. 2024
+      description:
+        - Designed an AI Media Literacy Web Game to address misinformation.
+        - Conducted user research via interviews to improve game design.
+    - title: Technical-Engineering Intern
+      institution: Synopsys Taiwan Co., Hsinchu, Taiwan
+      year: 07. 2023 – 08. 2023
+      description:
+        - Debugged four sets of Process Design Kits (PDKs) with a teammate using Python and TCL programming languages.

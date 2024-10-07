@@ -5,7 +5,7 @@ title: Curriculum Vitae
 nav: true
 nav_order: 5
 cv_pdf: Li_Chun_Lu_CV.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: This is Li-Chun's CV. Check the PDF file to see details!
 toc:
   sidebar: left
 ---

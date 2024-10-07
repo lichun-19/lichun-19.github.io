@@ -2,7 +2,7 @@
  * CV shared styles
  *****************************/
 
-div.container-link-button {
+ div.container-link-button {
   margin-right: 0.5rem;
 }
 
@@ -45,18 +45,20 @@ p.location {
 i.iconlocation {
   color: var(--global-theme-color);
   font-size: 0.8rem;
+  margin-right: 0.5rem; /* Prevent overlap */
 }
 
 i.iconinstitution {
   color: var(--global-theme-color);
   font-size: 0.95rem;
-  margin-right: 0.3rem;
+  margin-right: 0.5rem; /* Prevent overlap */
+  vertical-align: middle;
 }
 
 i.icondepartment {
   color: var(--global-theme-color);
   font-size: 0.8rem;
-  margin-right: 0.3rem;
+  margin-right: 0.5rem; /* Prevent overlap */
 }
 
 table.institution {
@@ -112,6 +114,7 @@ div.list-group {
 td.list-group-category {
   color: var(--global-theme-color);
   margin-bottom: 0.5rem;
+  padding-right: 0.8rem; /* Prevent overlap */
 }
 
 td.list-group-category-icon {
@@ -166,16 +169,18 @@ ul.timeline li {
   min-height: 2.2rem;
   color: var(--global-text-color);
   list-style-position: inside;
+  padding-left: 2rem; /* Prevent text overlap with orange badges */
 }
 
 span.badge-toc {
   color: var(--global-bg-color);
   background-color: var(--global-theme-color);
   border-radius: 0.125rem;
-  padding: 0.125rem 0.5rem 0.125rem 0.5rem;
+  padding: 0.125rem 0.5rem;
   font-weight: 700 !important;
   display: inline-block;
   inline-size: fit-content;
+  margin-right: 1rem; /* Add space between badge and text */
 }
 
 ul.timeline li::before {
@@ -189,27 +194,3 @@ ul.timeline li::before {
   left: 2px;
   top: -0.5rem;
 }
-
-/*ul.timeline::before {
-     content: "●";
-     font-size: 1em;
-     display: inline-block;
-     margin: 0;
-     padding: 0;
-     position: relative;
-     left: -2px;
-     top: 0.4rem;
-     color: var(--global-text-color);
-}
- ul.timeline::after {
-     content: "●";
-     font-size: 1em;
-     display: inline-block;
-     margin: 0;
-     padding: 0;
-     position: relative;
-     left: -2px;
-     top: -1rem;
-     color: var(--global-text-color);
-}
-*/
