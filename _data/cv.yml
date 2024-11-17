@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Li-Chun (Phoebe) Lu
+      value: Li-Chun (Phoebe) Lu | 呂俐君
     - name: Email
       value: b08901207@g.ntu.edu.tw
     - name: Phone
@@ -20,7 +20,7 @@
         - Last-60-credit GPA | 4.16/4.3
     - title: Exchange Student
       institution: San Diego State University, California, United States
-      year: 01. - 05. 2023
+      year: 01. 2023 - 05. 2023
       description:
         - Selected Courses | Operating Systems, Introduction to AI, Oral Communication
         - Overall GPA | 3.93/4.0
@@ -28,6 +28,11 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Visiting Undergraduate Researcher
+      institution: Peng's Language Understanding & Synthesis Lab (PLUS), University of California, Los Angeles
+      year: 11. 2024 – Present
+      description:
+        - Establish a creavity benchmark for LLM agents and design a reward model for robust evaluation.
     - title: Research Assistant, Undergraduate Researcher
       institution: Robot Learning Lab (RLL), NTU
       year: 10. 2023 – Present
@@ -42,7 +47,7 @@
         - Applied DPO reinforcement learning to improve voice conversion models.
     - title: Undergraduate Researcher
       institution: Human Computer Interaction Lab (HCI), NTU
-      year: 10. 2023 – 02. 2024
+      year: 08. 2023 – 02. 2024
       description:
         - Presented game at the Student Game Competition.
         - Collected and analyzed MRT speed data to validate research hypotheses.
@@ -50,8 +55,8 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Teaching Assistant (TA)
-      institution: NTU
+    - title: Teaching Assistant
+      institution: Generative Artificial Intelligence Course, NTU
       year: 02. 2024 – 06. 2024
       description:
         - Assisted in a course on Generative AI, collaborated with 37 TAs, and handled questions from 1,000 students and auditors.
