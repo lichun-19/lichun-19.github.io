@@ -28,39 +28,48 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Visiting Undergraduate Researcher
-      institution: Peng's Language Understanding & Synthesis Lab (PLUS), University of California, Los Angeles
+    - title: Visiting Undergraduate Researcher | Adivsed by Prof. Nanyun Peng
+      institution: Peng's Language Understanding & Synthesis Lab (PLUS), University of California, Los Angeles. 
       year: 11. 2024 – Present
-      description:
-        - Establish a creavity benchmark for LLM agents and design a reward model for robust evaluation.
-    - title: Research Assistant, Undergraduate Researcher
+      # description:
+      #   - Verify the existing metrics for creativity evaluation, and collect data across various dimentions including literature and creative problem sovling, from human experts and conduct machine sythetic data.
+      #   - Establish a reward model for robust evaluation of creativity
+      #   - Collaborate on a proposal on creavity benchmark for LLM agents with other.
+    - title: Research Assistant, Undergraduate Researcher | Adivsed by Prof. Shao-Hua Sun
       institution: Robot Learning Lab (RLL), NTU
       year: 10. 2023 – Present
-      description:
-        - Developed a three-phase discussion framework incorporating role-playing for LLM agents, improving creative performance by 20%.
-        - Devised an LLM evaluation mechanism, demonstrating a 0.7 correlation between LLM and human evaluations.
-    - title: Undergraduate Researcher
+      # description:
+      #   - Developed a multi-agent discussion framework with role-playing techniques for LLMs, achieving over a 20% improvement in creativity performance.
+      #   - Devised an LLM evaluation mechanism for creativity, validated with a 0.7 correlation on over 1,400 human data points.
+      #   - Enhanced the continuous learning capabilities of LMs by designing a decision agent that integrates an in-context learning system with model update mechanisms.
+    - title: Undergraduate Researcher | Adivsed by Prof. Hung-yi Lee
       institution: Deep Learning Human Language Processing Lab (DLHLP), NTU
       year: 07. 2023 – Present
-      description:
-        - Proposed and processed the dataset "Third Tone Sandhi Recognition in Mandarin" for Dynamic-SUPERB.
-        - Applied DPO reinforcement learning to improve voice conversion models.
-    - title: Undergraduate Researcher
+      # description:
+      #   - Proposed and processed the dataset "Third Tone Sandhi Recognition in Mandarin" for Dynamic-SUPERB.
+      #   - Applied DPO reinforcement learning to improve voice conversion models.
+    - title: Undergraduate Researcher | Adivsed by Prof. Mike Y. Chen
       institution: Human Computer Interaction Lab (HCI), NTU
       year: 08. 2023 – 02. 2024
-      description:
-        - Presented game at the Student Game Competition.
-        - Collected and analyzed MRT speed data to validate research hypotheses.
+      # description:
+      #   - Presented game at the Student Game Competition.
+      #   - Collected and analyzed MRT speed data to validate research hypotheses.
 
-- title: Teaching Experience
+- title: Teaching Experience & Academic Services
   type: time_table
   contents:
     - title: Teaching Assistant
       institution: Generative Artificial Intelligence Course, NTU
       year: 02. 2024 – 06. 2024
-      description:
-        - Assisted in a course on Generative AI, collaborated with 37 TAs, and handled questions from 1,000 students and auditors.
-        - Designed slides and an LLM essay evaluation system for prompting practice.
+      # description:
+      #   - Assisted in a course on Generative AI, collaborated with 37 TAs, and handled questions from 1,000 students and auditors.
+      #   - Designed slides and an LLM essay evaluation system for prompting practice.
+    - title: Volunteer
+      institution: Diversity, Equity and Inclusion (DEI) Scholarship Program, COLM
+      year: 10. 2024
+    - title: Reviewer
+      institution: Spoken Language Technology Workshop, IEEE
+      year: 07. 2024
 
 - title: Internship
   type: time_table
@@ -68,11 +77,21 @@
     - title: Collaboration Intern
       institution: NTU Y.L. Lin Program, Taiwan FactCheck Center
       year: 12. 2023 – 05. 2024
-      description:
-        - Designed an AI Media Literacy Web Game to address misinformation.
-        - Conducted user research via interviews to improve game design.
+      # description:
+      #   - Designed an AI Media Literacy Web Game to address misinformation.
+      #   - Conducted user research via interviews to improve game design.
     - title: Technical-Engineering Intern
       institution: Synopsys Taiwan Co., Hsinchu, Taiwan
       year: 07. 2023 – 08. 2023
       description:
         - Debugged four sets of Process Design Kits (PDKs) with a teammate using Python and TCL programming languages.
+
+- title: Awards & Honors
+  type: time_table
+  contents:
+    - title: Runner-Up Award
+      institution: Student Games Competition of the Conference on Human Factors in Computing Systems (CHI)
+      year: 05. 2024
+    - title: Outstanding Service Award
+      institution: NTU Department of Electrical Engineering
+      year: 12. 2021
