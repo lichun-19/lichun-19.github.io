@@ -6,7 +6,7 @@
     - name: Email
       value: b08901207@g.ntu.edu.tw
     - name: Phone
-      value: (+886)935-972650
+      value: +886-935-972650 | +1-310-339-1723
     - name: Languages
       value: Mandarin (Native), English (Fluent)
 
@@ -22,8 +22,13 @@
       institution: San Diego State University, California, United States
       year: 01. 2023 - 05. 2023
       description:
-        - Selected Courses | Operating Systems, Introduction to AI, Oral Communication
+        # - Selected Courses | Operating Systems, Introduction to AI, Oral Communication
         - Overall GPA | 3.93/4.0
+    - title: Bachelor in Architecture (Transferred)
+      institution: National Cheng Kung University, Tainan, Taiwan
+      year: 09. 2019 - 08. 2020
+      description:
+        - Overall GPA | 4.04/4.3
 
 - title: Research Experience
   type: time_table
@@ -55,27 +60,21 @@
       #   - Presented game at the Student Game Competition.
       #   - Collected and analyzed MRT speed data to validate research hypotheses.
 
-- title: Teaching Experience & Academic Services
+- title: Teaching Experience
   type: time_table
   contents:
     - title: Teaching Assistant
-      institution: Generative Artificial Intelligence Course, NTU
+      institution: Introduction to Generative Artificial Intelligence Course, NTU
       year: 02. 2024 – 06. 2024
       # description:
       #   - Assisted in a course on Generative AI, collaborated with 37 TAs, and handled questions from 1,000 students and auditors.
       #   - Designed slides and an LLM essay evaluation system for prompting practice.
-    - title: Volunteer
-      institution: Diversity, Equity and Inclusion (DEI) Scholarship Program, COLM
-      year: 10. 2024
-    - title: Reviewer
-      institution: Spoken Language Technology Workshop, IEEE
-      year: 07. 2024
 
 - title: Internship
   type: time_table
   contents:
     - title: Collaboration Intern
-      institution: NTU Y.L. Lin Program, Taiwan FactCheck Center
+      institution: NTU Y.L. Lin Program, Taiwan FactCheck Center (NPO)
       year: 12. 2023 – 05. 2024
       # description:
       #   - Designed an AI Media Literacy Web Game to address misinformation.
@@ -83,8 +82,8 @@
     - title: Technical-Engineering Intern
       institution: Synopsys Taiwan Co., Hsinchu, Taiwan
       year: 07. 2023 – 08. 2023
-      description:
-        - Debugged four sets of Process Design Kits (PDKs) with a teammate using Python and TCL programming languages.
+      # description:
+      #   - Debugged four sets of Process Design Kits (PDKs) with a teammate using Python and TCL programming languages.
 
 - title: Awards & Honors
   type: time_table
@@ -92,6 +91,19 @@
     - title: Runner-Up Award
       institution: Student Games Competition of the Conference on Human Factors in Computing Systems (CHI)
       year: 05. 2024
+    - title: Fellowships
+      institution: Y.L. Lin Program, National Taiwan University
+      year: 06. 2024
     - title: Outstanding Service Award
       institution: NTU Department of Electrical Engineering
       year: 12. 2021
+
+- title: Academic Services
+  type: time_table
+  contents:
+    - title: Volunteer
+      institution: Diversity, Equity and Inclusion (DEI) Scholarship Program, COLM
+      year: 10. 2024
+    - title: Reviewer
+      institution: Spoken Language Technology Workshop, IEEE
+      year: 07. 2024
