@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started work as a Research Assistant at National Taiwan University's [Robot Learning Lab](https://nturll.xyz/about).
+I've started working as a Research Assistant at National Taiwan University's [Robot Learning Lab](https://nturll.xyz/about).
