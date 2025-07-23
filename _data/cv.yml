@@ -6,7 +6,7 @@
     - name: Email
       value: b08901207@g.ntu.edu.tw
     - name: Phone
-      value: +886-935-972650 | +1-310-339-1723
+      value: +886-935-972650
     - name: Languages
       value: Mandarin (Native), English (Fluent)
 
@@ -17,23 +17,23 @@
       institution: National Taiwan University (NTU), Taipei, Taiwan
       year: 09. 2020 - 06. 2025
       description:
-        - Last-60-credit GPA | 4.16/4.3
-    - title: Exchange Student
+        # - Last-60-credit GPA | 4.16/4.3
+    - title: Exchange Student in Computer Engineering
       institution: San Diego State University, California, United States
       year: 01. 2023 - 05. 2023
       description:
         # - Selected Courses | Operating Systems, Introduction to AI, Oral Communication
-        - Overall GPA | 3.93/4.0
+        # - Overall GPA | 3.93/4.0
     - title: Bachelor in Architecture (Transferred)
       institution: National Cheng Kung University, Tainan, Taiwan
       year: 09. 2019 - 08. 2020
       description:
-        - Overall GPA | 4.04/4.3
+        # - Overall GPA | 4.04/4.3
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Visiting Undergraduate Researcher | Adivsed by Prof. Nanyun Peng
+    - title: Visiting Researcher | Adivsed by Prof. Nanyun Peng
       institution: Peng's Language Understanding & Synthesis Lab (PLUS), University of California, Los Angeles. 
       year: 11. 2024 – 04. 2025
       # description:
