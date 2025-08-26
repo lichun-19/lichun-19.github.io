@@ -3,21 +3,18 @@
 
 @string{aps = {American Physical Society,}}
 
-@misc{lu2024llmdiscussionenhancingcreativity,
+@inproceedings{lullm,
       bibtex_show={true},
       title={LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play},
-      author={Li-Chun Lu* and Shou-Jen Chen* and Tsung-Min Pai and Chan-Hung Yu and Hung-yi Lee and Shao-Hua Sun},
+      author={Lu, Li-Chun and Chen, Shou-Jen and Pai, Tsung-Min and Yu, Chan-Hung and Lee, Hung-yi and Sun, Shao-Hua},
+      booktitle={First Conference on Language Modeling},
       abstract={Large language models (LLMs) have shown exceptional proficiency in natural language processing but often fall short of generating creative and original responses to open-ended questions. To enhance LLM creativity, our key insight is to emulate the human process of inducing collective creativity through engaging discussions with participants from diverse backgrounds and perspectives. To this end, we propose LLM Discussion, a three-phase discussion framework that facilitates vigorous and diverging idea exchanges and ensures convergence to creative answers. Moreover, we adopt a role-playing technique by assigning distinct roles to LLMs to combat the homogeneity of LLMs. We evaluate the efficacy of the proposed framework with the Alternative Uses Test, Similarities Test, Instances Test, and Scientific Creativity Test through both LLM evaluation and human study. The results show that our proposed framework outperforms single-LLM approaches and existing multi-LLM frameworks across various creativity metrics.},
       year={2024},
-      eprint={2405.06373},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2405.06373},
-      arxiv={2405.06373},
       annotation={* Equal contribution},
       abbr={COLM '24},
       selected={true},
       code={https://github.com/lawraa/LLM-Discussion},
+      url={https://arxiv.org/abs/2405.06373},
       preview={llmDiscussion_preview.png}
 }
 
@@ -60,16 +57,24 @@
 }
 
 
-@misc{huang2024dynamicsuperbphase2collaborativelyexpanding,
+@inproceedings{huangdynamic,
       bibtex_show={true},
       title={Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks}, 
       author={Chien-yu Huang and Wei-Chih Chen and Shu-wen Yang and Andy T. Liu and Chen-An Li and Yu-Xiang Lin and Wei-Cheng Tseng and Anuj Diwan and Yi-Jen Shih and Jiatong Shi and William Chen and Xuanjun Chen and Chi-Yuan Hsiao and Puyuan Peng and Shih-Heng Wang and Chun-Yi Kuan and Ke-Han Lu and Kai-Wei Chang and Chih-Kai Yang and Fabian Ritter-Gutierrez and Ming To Chuang and Kuan-Po Huang and Siddhant Arora and You-Kuan Lin and Eunjung Yeo and Kalvin Chang and Chung-Ming Chien and Kwanghee Choi and Cheng-Hsiu Hsieh and Yi-Cheng Lin and Chee-En Yu and I-Hsiang Chiu and Heitor R. Guimarães and Jionghao Han and Tzu-Quan Lin and Tzu-Yuan Lin and Homu Chang and Ting-Wu Chang and Chun Wei Chen and Shou-Jen Chen and Yu-Hua Chen and Hsi-Chun Cheng and Kunal Dhawan and Jia-Lin Fang and Shi-Xin Fang and Kuan-Yu Fang Chiang and Chi An Fu and Hsien-Fu Hsiao and Ching Yu Hsu and Shao-Syuan Huang and Lee Chen Wei and Hsi-Che Lin and Hsuan-Hao Lin and Hsuan-Ting Lin and Jian-Ren Lin and Ting-Chun Liu and Li-Chun Lu and Tsung-Min Pai and Ankita Pasad and Shih-Yun Shan Kuan and Suwon Shon and Yuxun Tang and Yun-Shao Tsai and Jui-Chiang Wei and Tzu-Chieh Wei and Chengxi Wu and Dien-Ruei Wu and Chao-Han Huck Yang and Chieh-Chi Yang and Jia Qi Yip and Shao-Xiang Yuan and Vahid Noroozi and Zhehuai Chen and Haibin Wu and Karen Livescu and David Harwath and Shinji Watanabe and Hung-yi Lee},
-      year={2024},
+      booktitle={The Thirteenth International Conference on Learning Representations},
+      year={2025},
       abstract = {Multimodal foundation models, such as Gemini and ChatGPT, have revolutionized human-machine interactions by seamlessly integrating various forms of data. Developing a universal spoken language model that comprehends a wide range of natural language instructions is critical for bridging communication gaps and facilitating more intuitive interactions. However, the absence of a comprehensive evaluation benchmark poses a significant challenge. We present Dynamic-SUPERB Phase-2, an open and evolving benchmark for the comprehensive evaluation of instruction-based universal speech models. Building upon the first generation, this second version incorporates 125 new tasks contributed collaboratively by the global research community, expanding the benchmark to a total of 180 tasks, making it the largest benchmark for speech and audio evaluation. While the first generation of Dynamic-SUPERB was limited to classification tasks, Dynamic-SUPERB Phase-2 broadens its evaluation capabilities by introducing a wide array of novel and diverse tasks, including regression and sequence generation, across speech, music, and environmental audio. Evaluation results indicate that none of the models performed well universally. SALMONN-13B excelled in English ASR, while WavLLM demonstrated high accuracy in emotion recognition, but current models still require further innovations to handle a broader range of tasks. We will soon open-source all task data and the evaluation pipeline.},
-      eprint={2411.05361},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
       abbr = {ICLR '25},
       url={https://arxiv.org/abs/2411.05361}, 
       preview = {dynamic_superb2_preview.png}
+}
+
+@article{lu2025rethinking,
+      bibtex_show={true},
+      title={Rethinking Creativity Evaluation: A Critical Analysis of Existing Creativity Evaluations},
+      author={Lu, Li-Chun and Liu, Miri and Lu, Pin-Chun and Tian, Yufei and Sun, Shao-Hua and Peng, Nanyun},
+      abstract={We systematically examine, analyze, and compare representative creativity measures--creativity index, perplexity, syntactic templates, and LLM-as-a-Judge--across diverse creative domains, including creative writing, unconventional problem-solving, and research ideation. Our analyses reveal that these metrics exhibit limited consistency, capturing different dimensions of creativity. We highlight key limitations, including the creativity index's focus on lexical diversity, perplexity's sensitivity to model confidence, and syntactic templates' inability to capture conceptual creativity. Additionally, LLM-as-a-Judge shows instability and bias. Our findings underscore the need for more robust, generalizable evaluation frameworks that better align with human judgments of creativity.},
+      journal={arXiv preprint arXiv:2508.05470},
+      year={2025},
+      preview={rethinking_evaluation_preview.png}
 }

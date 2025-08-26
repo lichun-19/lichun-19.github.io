@@ -13,8 +13,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science in Electrical Engineering
+    - title: Ph.D. Student in Communication Engineering
       institution: National Taiwan University (NTU), Taipei, Taiwan
+      year: 08. 2025 - Present
+    - title: Bachelor of Science in Electrical Engineering
+      institution: NTU, Taipei, Taiwan
       year: 09. 2020 - 06. 2025
       description:
         # - Last-60-credit GPA | 4.16/4.3
