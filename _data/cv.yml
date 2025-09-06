@@ -13,36 +13,30 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Student in Communication Engineering
-      institution: National Taiwan University (NTU), Taipei, Taiwan
-      year: 08. 2025 - Present
+    # - title: Ph.D. Student in Communication Engineering
+    #   institution: National Taiwan University (NTU), Taipei, Taiwan
+    #   year: 08. 2025 - Present
     - title: Bachelor of Science in Electrical Engineering
-      institution: NTU, Taipei, Taiwan
+      institution: National Taiwan University (NTU), Taipei, Taiwan
       year: 09. 2020 - 06. 2025
       description:
-        # - Last-60-credit GPA | 4.16/4.3
+        - Selected Courses | Algorithms, Computer Architecture, Intro. to Generative AI, VR Game Programming
+        - Last-60-credit GPA | 4.24/4.3
     - title: Exchange Student in Computer Engineering
       institution: San Diego State University, California, United States
       year: 01. 2023 - 05. 2023
       description:
-        # - Selected Courses | Operating Systems, Introduction to AI, Oral Communication
-        # - Overall GPA | 3.93/4.0
-    - title: Bachelor in Architecture (Transferred)
-      institution: National Cheng Kung University, Tainan, Taiwan
-      year: 09. 2019 - 08. 2020
-      description:
-        # - Overall GPA | 4.04/4.3
+        - Selected Courses | Operating Systems, Introduction to AI, Oral Communication
+        - Overall GPA | 3.93/4.0
+    # - title: Bachelor in Architecture (Transferred)
+    #   institution: National Cheng Kung University, Tainan, Taiwan
+    #   year: 09. 2019 - 08. 2020
+    #   description:
+    #     - Overall GPA | 4.04/4.3
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Visiting Researcher | Adivsed by Prof. Nanyun Peng
-      institution: Peng's Language Understanding & Synthesis Lab (PLUS), University of California, Los Angeles. 
-      year: 11. 2024 – 04. 2025
-      # description:
-      #   - Verify the existing metrics for creativity evaluation, and collect data across various dimentions including literature and creative problem sovling, from human experts and conduct machine sythetic data.
-      #   - Establish a reward model for robust evaluation of creativity
-      #   - Collaborate on a proposal on creavity benchmark for LLM agents with other.
     - title: Research Assistant/Undergraduate Researcher | Adivsed by Prof. Shao-Hua Sun
       institution: Robot Learning Lab (RLL), NTU
       year: 10. 2023 – Present
@@ -50,9 +44,16 @@
       #   - Developed a multi-agent discussion framework with role-playing techniques for LLMs, achieving over a 20% improvement in creativity performance.
       #   - Devised an LLM evaluation mechanism for creativity, validated with a 0.7 correlation on over 1,400 human data points.
       #   - Enhanced the continuous learning capabilities of LMs by designing a decision agent that integrates an in-context learning system with model update mechanisms.
+    - title: Visiting Researcher | Adivsed by Prof. Nanyun (Violet) Peng
+      institution: Peng's Language Understanding & Synthesis Lab (PLUS), University of California, Los Angeles. 
+      year: 11. 2024 – 04. 2025
+      # description:
+      #   - Verify the existing metrics for creativity evaluation, and collect data across various dimentions including literature and creative problem sovling, from human experts and conduct machine sythetic data.
+      #   - Establish a reward model for robust evaluation of creativity
+      #   - Collaborate on a proposal on creavity benchmark for LLM agents with other.
     - title: Undergraduate Researcher | Adivsed by Prof. Hung-yi Lee
       institution: Deep Learning Human Language Processing Lab (DLHLP), NTU
-      year: 07. 2023 – Present
+      year: 07. 2023 – 10. 2024
       # description:
       #   - Proposed and processed the dataset "Third Tone Sandhi Recognition in Mandarin" for Dynamic-SUPERB.
       #   - Applied DPO reinforcement learning to improve voice conversion models.
