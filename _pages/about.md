@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:#F0401F; font-weight:bold;">Seeking a PhD position starting in Fall 2026!  Open to all kinds of opportunities at [b08901207@g.ntu.edu.tw]. </span>
+subtitle: <span style="color:#F0401F; font-weight:bold;">Seeking a PhD position starting in Fall 2026!  Open to all kinds of opportunities at [lichun.phoebe.lu@gmail.com]. </span>
 
 # Graduate Institute of Communication Engineering, National Taiwan University (NTU)
 
