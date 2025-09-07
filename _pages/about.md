@@ -4,6 +4,8 @@ title: About
 permalink: /
 subtitle: <span style="color:#F0401F; font-weight:bold;">Seeking a PhD position starting in Fall 2026!  Open to all kinds of opportunities at [b08901207@g.ntu.edu.tw]. </span>
 
+# Graduate Institute of Communication Engineering, National Taiwan University (NTU)
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -15,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am interested in advancing **AI's abilities in human-centered intelligence** that extend beyond informative tasks (e.g., creativity), with the vision of enhancing human life and fostering **human-AI collaboration** through more innovative perspectives and solutions.
+**I am interested in advancing AI's abilities in human-centered intelligence that extend beyond informative tasks (e.g., creativity, social interaction), with the vision of enhancing human life and fostering human-AI collaboration through more innovative perspectives and solutions.**
 
 I am a research assistant at [Robot Learning Lab](https://nturll.xyz/about), [National Taiwan University](https://www.ntu.edu.tw/english/) (NTU), working with Professor [Shao-Hua Sun](https://shaohua0116.github.io/). I received my B.S.E. in Electrical Engineering from NTU in July 2025. During my undergraduate studies, I collaborated with Professors Shao-Hua Sun and [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) on language models, where I designed a multi-agent discussion framework incorporating role-play techniques that enhances LLM's creativity. I also worked with Professor [Mike Y. Chen](https://mikechen.com/) on human-computer interaction research through virtual reality gaming.
 
