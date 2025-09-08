@@ -28,7 +28,6 @@ Earilier this year, I was a visiting researcher at the [UCLA NLP Group](https://
 
 I also conducted research as a visiting researcher at the [University of California, Los Angeles](https://www.ucla.edu/) (UCLA), in Professor [Nanyun Peng](https://violetpeng.github.io/)'s PLUS Lab (Nov 2024 – Apr 2025), where I led a project analyzing and comparing creativity metrics across domains and identifying limitations that underscore the need for improved evaluation methods.
 -->
-<!-- Aside from this, I have experiences in human-computer interaction (HCI), where I conduct  -->
 <!-- ⮕ Check out my [personal website](https://lichuns-website.webflow.io/) and [porfolio](https://lichuns-website.webflow.io/art-works) to learn more about my interdisciplinary backgrounds! -->
 
 
