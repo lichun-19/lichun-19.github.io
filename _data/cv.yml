@@ -13,9 +13,9 @@
 - title: Education
   type: time_table
   contents:
-    # - title: Ph.D. Student in Communication Engineering
-    #   institution: National Taiwan University (NTU), Taipei, Taiwan
-    #   year: 08. 2025 - Present
+    - title: Ph.D. Student in Communication Engineering
+      institution: National Taiwan University (NTU), Taipei, Taiwan
+      year: 09. 2025 - Present
     - title: Bachelor of Science in Electrical Engineering
       institution: National Taiwan University (NTU), Taipei, Taiwan
       year: 09. 2020 - 06. 2025
@@ -37,9 +37,12 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Research Assistant/Undergraduate Researcher | Adivsed by Prof. Shao-Hua Sun
+    - title: PhD Student | Adivsed by Prof. Shao-Hua Sun
       institution: Robot Learning Lab (RLL), NTU
-      year: 10. 2023 – Present
+      year: 09. 2025 – Present
+    - title: Research Assistant/Undergraduate Researcher | Adivsed by Prof. Shao-Hua Sun
+      institution: RLL, NTU
+      year: 10. 2023 – 08. 2025
       # description:
       #   - Developed a multi-agent discussion framework with role-playing techniques for LLMs, achieving over a 20% improvement in creativity performance.
       #   - Devised an LLM evaluation mechanism for creativity, validated with a 0.7 correlation on over 1,400 human data points.
@@ -68,6 +71,9 @@
   type: time_table
   contents:
     - title: Teaching Assistant
+      institution: Seminar, NTU
+      year: 09. 2025 – Present
+    - title: Teaching Assistant
       institution: Introduction to Generative Artificial Intelligence Course, NTU
       year: 02. 2024 – 06. 2024
       # description:
@@ -92,15 +98,21 @@
 - title: Awards & Honors
   type: time_table
   contents:
+    - title: Fellowship
+      institution: Graduate Research Fellowship Pilot Program, National Science and Technology Council
+      year: 09. 2025
+    - title: Fellowship
+      institution: EECS Top-tier PhD Training Program Scholarship, NTU
+      year: 09. 2025
+    - title: Scholarship
+      institution: Y.L. Lin Program, NTU
+      year: 06. 2024
     - title: Runner-Up Award
       institution: Student Games Competition of the Conference on Human Factors in Computing Systems (CHI)
       year: 05. 2024
-    - title: Fellowships
-      institution: Y.L. Lin Program, National Taiwan University
-      year: 06. 2024
-    - title: Outstanding Service Award
-      institution: NTU Department of Electrical Engineering
-      year: 12. 2021
+    # - title: Outstanding Service Award
+    #   institution: NTU Department of Electrical Engineering
+    #   year: 12. 2021
 
 - title: Academic Services
   type: time_table
