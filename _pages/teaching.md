@@ -1,12 +1,33 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+permalink: /more/
+title: More
+description: The other aspects of me :)
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Other than research, I enjoy outdoor activities, traveling, watching movies, cooking, and singing in choirs. Overall, I love collecting new experiences because I am a curious person!
 
-Organize your courses by years, topics, or universities, however you like!
+
+**Sports I’d love to explore more** (still a beginner) ➡️
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sport-boulder2.jpg" title="Fantasy Center" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Bouldering in Soeul | 2025
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sport-snow.jpg" title="Calming Passway" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            1st Snowboarding at Mammoth | 2024
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sport-surf.jpg" title="Secure Shelter" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Surfing in Hawaii | 2024
+        </div>
+    </div>
+</div>

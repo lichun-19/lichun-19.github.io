@@ -1,81 +1,86 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: NEURORLD
+description: Visualization of the world inside my mind. | Spring 2020
+img: assets/img/neurold-full.png
 importance: 1
-category: work
-related_publications: true
+category: Art Design
+related_publications: false
+bibliography: false 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+### Design Concept
+<div style="text-align: justify; text-justify: inter-word; margin-top: 2rem; margin-bottom: 3rem;">
+NEURORLD stems from the concept of a world composed of neurons, representing my mind. In this work, I create spaces that embody different emotions and feelings; meanwhile, through interactions with these spaces, users' mental states will also change correspondingly.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/neurold-full.png" title="Neurold image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    NEURORLD is composed of three main spaces: the Fantasy Center, the Calming Passway, and the Secure Shelter.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+**Fantasy Center**
+<div style="text-align: justify; text-justify: inter-word; margin-top: 0rem; margin-bottom: 1rem;">
+The intricate and interwoven network reflects its role as the central hub of perception, embodying the complexity and progression of thoughts while maintaining a unique, personal logic that cannot be easily traversed. The upward-aligned neural structures gradually become more orderly, guiding individuals to ascend, transforming excitement and confusion into clarity and rationality during the climb. Ultimately, they reach an open, elevated vantage point to gain a comprehensive view of the whole.
+</div>
+
+**Calming Passway**
+<div style="text-align: justify; text-justify: inter-word; margin-top: 0rem; margin-bottom: 1rem;">
+A gradually widening and smoother passage connects the confined, oppressive private spaces to an open and public terrace, guiding those harboring anger or sorrow toward the expansive area to help soothe intense emotions.
+</div>
+
+**Secure Shelter**
+<div style="text-align: justify; text-justify: inter-word; margin-top: 0rem; margin-bottom: 3rem;">
+A smooth and delicate material envelops the shelter with a single entrance, creating a safe and comforting space for those experiencing fear or vulnerability. The upper portion remains open and unobstructed, preventing excessive shadows that could heighten fear, allowing sunlight—symbolizing hope and warmth—to naturally light up the space.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/neurold-Fantasy_Center.jpg" title="Fantasy Center" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Fantasy Center
+        </div>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/neurold-Calming_Passway.jpg" title="Calming Passway" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Calming Passway
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/neurold-Secure_Shelter.jpg" title="Secure Shelter" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Secure Shelter
+        </div>
+    </div>
+</div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+      <iframe
+        src="https://www.youtube.com/embed/Y_rk8DgFIDw"
+        style="position:absolute; top:0; left:0; width:100%; height:100%;"
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+</div>
+<div class="caption">
+    Demo Video
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/neurold-poster.png" title="Poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Poster
 </div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
