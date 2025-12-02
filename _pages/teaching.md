@@ -28,7 +28,7 @@ I’d love to explore more!
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sport-surf.jpg" title="surf" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_4077.JPG" title="surf" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Surfing in Hawaii | 2024
         </div>
