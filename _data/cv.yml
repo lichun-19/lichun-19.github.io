@@ -13,9 +13,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Student in Communication Engineering
-      institution: National Taiwan University (NTU), Taipei, Taiwan
-      year: 09. 2025 - Present
+    # - title: Ph.D. Student in Communication Engineering
+    #   institution: National Taiwan University (NTU), Taipei, Taiwan
+    #   year: 09. 2025 - Present
     - title: Bachelor of Science in Electrical Engineering
       institution: NTU, Taipei, Taiwan
       year: 09. 2020 - 06. 2025
@@ -37,12 +37,12 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: PhD Student | Adivsed by Prof. Shao-Hua Sun
+    - title: Student Researcher/Research Assistant | Adivsed by Prof. Shao-Hua Sun
       institution: Robot Learning Lab (RLL), NTU
-      year: 09. 2025 – Present
-    - title: Research Assistant/Undergraduate Researcher | Adivsed by Prof. Shao-Hua Sun
-      institution: RLL, NTU
-      year: 10. 2023 – 08. 2025
+    #   year: 09. 2025 – Present
+    # - title: Research Assistant/Undergraduate Researcher | Adivsed by Prof. Shao-Hua Sun
+    #   institution: RLL, NTU
+      year: 10. 2023 – Present
       # description:
       #   - Developed a multi-agent discussion framework with role-playing techniques for LLMs, achieving over a 20% improvement in creativity performance.
       #   - Devised an LLM evaluation mechanism for creativity, validated with a 0.7 correlation on over 1,400 human data points.
@@ -54,13 +54,13 @@
       #   - Verify the existing metrics for creativity evaluation, and collect data across various dimentions including literature and creative problem sovling, from human experts and conduct machine sythetic data.
       #   - Establish a reward model for robust evaluation of creativity
       #   - Collaborate on a proposal on creavity benchmark for LLM agents with other.
-    - title: Undergraduate Researcher | Adivsed by Prof. Hung-yi Lee
+    - title: Student Researcher | Adivsed by Prof. Hung-yi Lee
       institution: Deep Learning Human Language Processing Lab (DLHLP), NTU
       year: 07. 2023 – 10. 2024
       # description:
       #   - Proposed and processed the dataset "Third Tone Sandhi Recognition in Mandarin" for Dynamic-SUPERB.
       #   - Applied DPO reinforcement learning to improve voice conversion models.
-    - title: Undergraduate Researcher | Adivsed by Prof. Mike Y. Chen
+    - title: Student Researcher | Adivsed by Prof. Mike Y. Chen
       institution: Human Computer Interaction Lab (HCI), NTU
       year: 08. 2023 – 05. 2024
       # description:
@@ -98,12 +98,12 @@
 - title: Awards & Honors
   type: time_table
   contents:
-    - title: Fellowship
-      institution: Graduate Research Fellowship Pilot Program, National Science and Technology Council
-      year: 09. 2025
-    - title: Fellowship
-      institution: EECS Top-tier PhD Training Program, NTU
-      year: 09. 2025
+    # - title: Fellowship
+    #   institution: Graduate Research Fellowship Pilot Program, National Science and Technology Council
+    #   year: 09. 2025
+    # - title: Fellowship
+    #   institution: EECS Top-tier PhD Training Program, NTU
+    #   year: 09. 2025
     - title: Scholarship
       institution: Y.L. Lin Program, NTU
       year: 06. 2024
@@ -114,12 +114,23 @@
     #   institution: NTU Department of Electrical Engineering
     #   year: 12. 2021
 
+- title: Projects
+  type: time_table
+  contents:
+    - title:  Smart Driving Assistance
+      institution: Embedded Systems Course Final Project, NTU
+      year: 05. 2024
+    - title: Emotional Ocean - an Interactive Device to Raise Awareness of Emotional Issues
+      institution: TAICHI Demos Session, CSCW 2022
+      year: 11. 2022
+
 - title: Academic Services
   type: time_table
   contents:
     - title: Volunteer
-      institution: Diversity, Equity and Inclusion (DEI) Scholarship Program, COLM
-      year: 10. 2024
+      institution: COLM DEI Scholarship Program 2024; ROCLING 2025
+
+      # year: 10. 2024
     - title: Reviewer
-      institution: Spoken Language Technology Workshop, IEEE
-      year: 07. 2024
+      institution: ICLR 2026; IEEE SLT Workshop 2024
+      # year: 07. 2024
