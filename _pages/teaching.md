@@ -34,3 +34,21 @@ I’d love to explore more!
         </div>
     </div>
 </div>
+
+#### **Movies**
+Some of my favorite movies: 
+* Before Sunrise (1995)
+* Zootopia (2016)
+* The Shawshank Redemption (1994)
+* A Taxi Driver (2017)
+
+#### **Fun Facts**
+* I studied architecture from 2019 to 2020 at NCKU, and then transferred to EE at NTU.
+* I sang in choirs from the age of 7 to 20 (and I loved it!).
+<!-- * I may look shy, but I actually enjoy talking to people and learning about their (your) thoughts. -->
+* I recently got a short haircut, yay!
+
+
+
+
+
