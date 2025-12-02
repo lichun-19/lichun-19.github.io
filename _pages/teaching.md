@@ -12,7 +12,7 @@ Other than research, I enjoy outdoor activities, traveling, watching movies, coo
 
 #### **Sports**
 
-I’d love to explore more! (still a beginner)
+I’d love to explore more!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
