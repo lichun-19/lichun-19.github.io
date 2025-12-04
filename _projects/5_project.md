@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emotional Ocean
-description: An Interactive Device to Raise Awareness of Emotional Issues | Fall 2022
+description: An Interactive Device to Raise Awareness of Emotional Issues | CSCW 2022
 img: assets/img/emotional-full.png
 importance: 1
 category: Human-Centered
@@ -73,7 +73,7 @@ We modeled and designed the device casing in Cinema 4D and 3D-printed the compon
     </div>
 </div>
 <div class="caption">
-    App interface demonstration
+    App Interface Demonstration
 </div>
 
 <div class="row">
