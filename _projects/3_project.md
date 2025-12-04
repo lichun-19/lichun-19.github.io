@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dynamic Boundary
-description: The architecture of my imagination | Fall 2019
+description: The Architecture of My Imagination | Fall 2019
 img: assets/img/boundary-full.jpg
 importance: 2
 category: Art Design

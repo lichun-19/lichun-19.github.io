@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NEURORLD
-description: Visualization of the world inside my mind. | Spring 2020
+description: Visualization of the World Inside My Mind | Spring 2020
 img: assets/img/neurold-full.png
 importance: 1
 category: Art Design

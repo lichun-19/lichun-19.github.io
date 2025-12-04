@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Be at the Moment
-description: A dynamic machine without intended usage | Fall 2019
+description: A Dynamic Machine Without Intended Usage | Fall 2019
 img: assets/img/motion-full.jpg
 importance: 3
 category: Art Design
