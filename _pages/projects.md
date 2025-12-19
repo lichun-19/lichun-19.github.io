@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here are some projects and cool works that I've done. [Under construction...]
 nav: true
 nav_order: 3
-display_categories: [Art Design, Human-Centered]
+display_categories: [Art Design, Human-Centered, Engineering]
 horizontal: false
 ---
 
