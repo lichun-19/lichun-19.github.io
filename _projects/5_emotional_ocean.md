@@ -4,7 +4,7 @@ title: Emotional Ocean
 description: An Interactive Device to Raise Awareness of Emotional Issues | CSCW 2022
 img: assets/img/emotional-full.png
 importance: 1
-category: Human-Centered
+category: Interactive Systems
 related_publications: false
 bibliography: false 
 ---

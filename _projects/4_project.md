@@ -3,8 +3,8 @@ layout: page
 title: Be at the Moment
 description: A Dynamic Machine Without Intended Usage | Fall 2019
 img: assets/img/motion-full.jpg
-importance: 3
-category: Art Design
+importance: 2
+category: Interactive Systems
 related_publications: false
 bibliography: false 
 ---

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Smart Driving System
-description: Embedded systems | Fall 2023
+description: Embedded Systems Course Final Project | Fall 2023
 img: assets/img/embedded_main.png
 importance: 2
-category: Engineering
+category: Interactive Systems
 related_publications: false
 bibliography: false 
 ---
 
 ### Overview
 <div style="text-align: justify; text-justify: inter-word; margin-top: 1rem; margin-bottom: 3rem;">
-Collaborators | Shou-Ren Chen<br><br>
+Collaborator | Shou-Ren Chen<br><br>
 
 This Embedded Systems final project explores how real-time sensing, wireless communication, and local computation can be integrated into a compact smart-driving assistant. Our goal was to design a system capable of reading environmental distances, detecting danger, adjusting driving modes, and supporting early-stage autonomous parking through machine learning.<br><br>
 
