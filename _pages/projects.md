@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Here are some projects and cool works that I've done. [Under construction...]
+description: Here are some projects and cool works that I've done.
 nav: true
 nav_order: 3
 display_categories: [Art Design, Interactive Systems]

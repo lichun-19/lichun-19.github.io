@@ -3,7 +3,7 @@ layout: page
 title: Pet Travel Platform
 description: Reimagination of the Traveling Experience with Pets | Spring 2021
 img: assets/img/pet-web1.png
-importance: 3
+importance: 4
 category: Interactive Systems
 related_publications: false
 bibliography: false 

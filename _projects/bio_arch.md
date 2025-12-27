@@ -3,7 +3,7 @@ layout: page
 title: The Biomimetic Entrances
 description: Beyond an Everyday Passageway | Fall 2019
 img: assets/img/bio_arch.jpg
-importance: 1
+importance: 2
 category: Art Design
 related_publications: false
 bibliography: false 

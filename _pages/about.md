@@ -23,6 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 Earilier this year, I was a visiting researcher at the [UCLA NLP Group](https://x.com/uclanlp) in Professor [Nanyun Peng](https://violetpeng.github.io/)'s [PLUS Lab](https://violetpeng.github.io/group/), where I led a project that analyzed and compared existing metrics for creativity evaluation across multiple domains, identifying key limitations and underscoring the need for more robust evaluation methods.
 
+⮕ Take a look at some of the [projects](https://lichun-19.github.io/projects/) I’ve worked on, and get to know [more](https://lichun-19.github.io/more/) about me beyond research!
 
 <!-- I am interested in advancing AI’s abilities in human-centered intelligence that extend beyond informative tasks (e.g., creativity, social interaction), with the vision of enhancing human life and fostering human-AI collaboration through more innovative perspectives and solutions. -->
 

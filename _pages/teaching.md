@@ -18,7 +18,7 @@ I’d love to explore more!
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/sport-boulder.jpg" title="boulder" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Bouldering in Soeul | 2025
+            Bouldering in Seoul | 2025
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
