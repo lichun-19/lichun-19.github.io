@@ -28,11 +28,11 @@
       description:
         - Selected Courses | Operating Systems, Introduction to AI, Oral Communication
         - Overall GPA | 3.93/4.0
-    # - title: Bachelor in Architecture (Transferred)
-    #   institution: National Cheng Kung University, Tainan, Taiwan
-    #   year: 09. 2019 - 08. 2020
-    #   description:
-    #     - Overall GPA | 4.04/4.3
+    - title: Bachelor of Architecture (Transferred)
+      institution: National Cheng Kung University, Tainan, Taiwan
+      year: 09. 2019 - 08. 2020
+      description:
+        - Overall GPA | 4.04/4.3
 
 - title: Research Experience
   type: time_table
