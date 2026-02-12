@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Fact Finder
-description: A fact-checking and AI/media literacy web game | Spring 2024
+description: A Fact-checking and AI/Media Literacy Web Game | Spring 2024
 img: assets/img/tfc_main.png
 importance: 4
 category: Interactive Systems

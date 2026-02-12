@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:#F0401F; font-weight:bold;">Seeking a PhD position starting in Fall 2026!  Open to all kinds of opportunities at [lichun.phoebe.lu@gmail.com]. </span>
+# subtitle: <span style="color:#F0401F; font-weight:bold;">Seeking a PhD position starting in Fall 2026!  Open to all kinds of opportunities at [lichun.phoebe.lu@gmail.com]. </span>
 
 # Graduate Institute of Communication Engineering, National Taiwan University (NTU)
 
@@ -20,6 +20,7 @@ social: true # includes social icons at the bottom of the page
 **My research interest lies in advancing AI's abilities in human-centered intelligence, which complements users with insight and wisdom of life while preserving, or even helping to develop, each individual’s uniqueness and personality.**
 
  I work at the [Robot Learning Lab](https://nturll.xyz/about), [National Taiwan University](https://www.ntu.edu.tw/english/) (NTU), advised by Professor [Shao-Hua Sun](https://shaohua0116.github.io/). I received my B.S.E. in Electrical Engineering from NTU in July 2025. During my undergraduate studies, I collaborated with Professors Shao-Hua Sun and [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) on language models, where I designed a multi-agent discussion framework incorporating role-play techniques that enhances LLM's creativity. I also worked with Professor [Mike Y. Chen](https://mikechen.com/) on human-computer interaction research through virtual reality gaming.
+
 
 Earlier, I was a visiting researcher in Professor [Nanyun Peng](https://violetpeng.github.io/)'s [PLUS Lab](https://violetpeng.github.io/group/) at the [UCLA NLP Group](https://x.com/uclanlp), where I led a project that analyzed and compared existing metrics for creativity evaluation across multiple domains, identifying key limitations and underscoring the need for more robust evaluation methods.
 
