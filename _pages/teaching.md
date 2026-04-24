@@ -35,6 +35,7 @@ I’d love to explore more!
     </div>
 </div>
 
+
 #### **Movies**
 Some of my favorite movies: 
 * Before Sunrise (1995)
@@ -45,8 +46,13 @@ Some of my favorite movies:
 #### **Fun Facts**
 * I studied architecture from 2019 to 2020 at NCKU, and then transferred to EE at NTU.
 * I sang in choirs from the age of 7 to 20 (and I loved it!).
-* I recently got a short haircut, yay!
+* I just came back from a trip to Morocco, and the desert was amazing! (putting a giant photo I took below lol)
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/travel/morocco.png" title="morocco" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
 
