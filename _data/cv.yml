@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Li-Chun (Phoebe) Lu | 呂俐君
+      value: Li-Chun Lu | 呂俐君
     - name: Email
       value: lichun.phoebe.lu@gmail.com
-    - name: Phone
-      value: +886-935-972650
+    # - name: Phone
+      # value: +886-935-972650
     - name: Languages
       value: Mandarin (Native), English (Fluent)
 
@@ -21,24 +21,29 @@
       year: 09. 2020 - 06. 2025
       description:
         - Selected Courses | Algorithms, Computer Architecture, Intro. to Generative AI, VR Game Programming
-        - Last-60-credit GPA | 4.24/4.3
-    - title: Exchange Student in Computer Engineering
-      institution: San Diego State University, California, United States
-      year: 01. 2023 - 05. 2023
-      description:
-        - Selected Courses | Operating Systems, Introduction to AI, Oral Communication
-        - Overall GPA | 3.93/4.0
+        # - Last-60-credit GPA | 4.24/4.3
+    # - title: Exchange Student in Computer Engineering
+    #   institution: San Diego State University, California, United States
+    #   year: 01. 2023 - 05. 2023
+    #   description:
+    #     - Selected Courses | Operating Systems, Introduction to AI, Oral Communication
+    #     - Overall GPA | 3.93/4.0
     - title: Bachelor of Architecture (Transferred)
       institution: National Cheng Kung University, Tainan, Taiwan
       year: 09. 2019 - 08. 2020
-      description:
-        - Overall GPA | 4.04/4.3
+      # description:
+        # - Overall GPA | 4.04/4.3
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Student Researcher/Research Assistant | Adivsed by Prof. Shao-Hua Sun
-      institution: Robot Learning Lab (RLL), NTU
+    - title: Visiting Researcher | Adivsed by Prof. Pattie Maes
+      institution: Fluid Interfaces Group, MIT Media Lab. 
+      description:
+        - Remote collaboration (May to mid-July).
+      year: 05. 2026 – Present
+    - title: Student Researcher | Adivsed by Prof. Shao-Hua Sun
+      institution: Robot Learning Lab, NTU
     #   year: 09. 2025 – Present
     # - title: Research Assistant/Undergraduate Researcher | Adivsed by Prof. Shao-Hua Sun
     #   institution: RLL, NTU
@@ -48,89 +53,89 @@
       #   - Devised an LLM evaluation mechanism for creativity, validated with a 0.7 correlation on over 1,400 human data points.
       #   - Enhanced the continuous learning capabilities of LMs by designing a decision agent that integrates an in-context learning system with model update mechanisms.
     - title: Visiting Researcher | Adivsed by Prof. Nanyun (Violet) Peng
-      institution: Peng's Language Understanding & Synthesis Lab (PLUS), University of California, Los Angeles. 
+      institution: Peng's Language Understanding & Synthesis Lab, UCLA. 
       year: 11. 2024 – 04. 2025
       # description:
       #   - Verify the existing metrics for creativity evaluation, and collect data across various dimentions including literature and creative problem sovling, from human experts and conduct machine sythetic data.
       #   - Establish a reward model for robust evaluation of creativity
       #   - Collaborate on a proposal on creavity benchmark for LLM agents with other.
     - title: Student Researcher | Adivsed by Prof. Hung-yi Lee
-      institution: Deep Learning Human Language Processing Lab (DLHLP), NTU
+      institution: Deep Learning Human Language Processing Lab, NTU
       year: 07. 2023 – 10. 2024
       # description:
       #   - Proposed and processed the dataset "Third Tone Sandhi Recognition in Mandarin" for Dynamic-SUPERB.
       #   - Applied DPO reinforcement learning to improve voice conversion models.
     - title: Student Researcher | Adivsed by Prof. Mike Y. Chen
-      institution: Human Computer Interaction Lab (HCI), NTU
+      institution: Human Computer Interaction Lab, NTU
       year: 08. 2023 – 05. 2024
       # description:
       #   - Presented game at the Student Game Competition.
       #   - Collected and analyzed MRT speed data to validate research hypotheses.
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistant
-      institution: Seminar, NTU
-      year: 09. 2025 – Present
-    - title: Teaching Assistant
-      institution: Introduction to Generative Artificial Intelligence Course, NTU
-      year: 02. 2024 – 06. 2024
-      # description:
-      #   - Assisted in a course on Generative AI, collaborated with 37 TAs, and handled questions from 1,000 students and auditors.
-      #   - Designed slides and an LLM essay evaluation system for prompting practice.
+# - title: Teaching Experience
+#   type: time_table
+#   contents:
+#     - title: Teaching Assistant
+#       institution: Seminar, NTU
+#       year: 09. 2025 – Present
+#     - title: Teaching Assistant
+#       institution: Introduction to Generative Artificial Intelligence Course, NTU
+#       year: 02. 2024 – 06. 2024
+#       # description:
+#       #   - Assisted in a course on Generative AI, collaborated with 37 TAs, and handled questions from 1,000 students and auditors.
+#       #   - Designed slides and an LLM essay evaluation system for prompting practice.
 
-- title: Internship
-  type: time_table
-  contents:
-    - title: Collaboration Intern
-      institution: NTU Y.L. Lin Program, Taiwan FactCheck Center (NPO)
-      year: 12. 2023 – 05. 2024
-      # description:
-      #   - Designed an AI Media Literacy Web Game to address misinformation.
-      #   - Conducted user research via interviews to improve game design.
-    - title: Technical-Engineering Intern
-      institution: Synopsys Taiwan Co., Hsinchu, Taiwan
-      year: 07. 2023 – 08. 2023
-      # description:
-      #   - Debugged four sets of Process Design Kits (PDKs) with a teammate using Python and TCL programming languages.
+# - title: Internship
+#   type: time_table
+#   contents:
+#     - title: Collaboration Intern
+#       institution: NTU Y.L. Lin Program, Taiwan FactCheck Center (NPO)
+#       year: 12. 2023 – 05. 2024
+#       # description:
+#       #   - Designed an AI Media Literacy Web Game to address misinformation.
+#       #   - Conducted user research via interviews to improve game design.
+#     - title: Technical-Engineering Intern
+#       institution: Synopsys Taiwan Co., Hsinchu, Taiwan
+#       year: 07. 2023 – 08. 2023
+#       # description:
+#       #   - Debugged four sets of Process Design Kits (PDKs) with a teammate using Python and TCL programming languages.
 
-- title: Awards & Honors
-  type: time_table
-  contents:
-    # - title: Fellowship
-    #   institution: Graduate Research Fellowship Pilot Program, National Science and Technology Council
-    #   year: 09. 2025
-    # - title: Fellowship
-    #   institution: EECS Top-tier PhD Training Program, NTU
-    #   year: 09. 2025
-    - title: Scholarship
-      institution: Y.L. Lin Program, NTU
-      year: 06. 2024
-    - title: Runner-Up Award
-      institution: Student Games Competition of the Conference on Human Factors in Computing Systems (CHI)
-      year: 05. 2024
-    # - title: Outstanding Service Award
-    #   institution: NTU Department of Electrical Engineering
-    #   year: 12. 2021
+# - title: Awards & Honors
+#   type: time_table
+#   contents:
+#     # - title: Fellowship
+#     #   institution: Graduate Research Fellowship Pilot Program, National Science and Technology Council
+#     #   year: 09. 2025
+#     # - title: Fellowship
+#     #   institution: EECS Top-tier PhD Training Program, NTU
+#     #   year: 09. 2025
+#     - title: Scholarship
+#       institution: Y.L. Lin Program, NTU
+#       year: 06. 2024
+#     - title: Runner-Up Award
+#       institution: Student Games Competition of the Conference on Human Factors in Computing Systems (CHI)
+#       year: 05. 2024
+#     # - title: Outstanding Service Award
+#     #   institution: NTU Department of Electrical Engineering
+#     #   year: 12. 2021
 
-- title: Projects
-  type: time_table
-  contents:
-    - title:  Smart Driving Assistance
-      institution: Embedded Systems Course Final Project, NTU
-      year: 05. 2024
-    - title: Emotional Ocean - an Interactive Device to Raise Awareness of Emotional Issues
-      institution: TAICHI Demos Session, CSCW 2022
-      year: 11. 2022
+# - title: Projects
+#   type: time_table
+#   contents:
+#     - title:  Smart Driving Assistance
+#       institution: Embedded Systems Course Final Project, NTU
+#       year: 05. 2024
+#     - title: Emotional Ocean - an Interactive Device to Raise Awareness of Emotional Issues
+#       institution: TAICHI Demos Session, CSCW 2022
+#       year: 11. 2022
 
-- title: Academic Services
-  type: time_table
-  contents:
-    - title: Volunteer
-      institution: COLM DEI Scholarship Program 2024; ROCLING 2025
+# - title: Academic Services
+#   type: time_table
+#   contents:
+#     - title: Volunteer
+#       institution: COLM DEI Scholarship Program 2024; ROCLING 2025
 
-      # year: 10. 2024
-    - title: Reviewer
-      institution: ICLR 2026; IEEE SLT Workshop 2024
-      # year: 07. 2024
+#       # year: 10. 2024
+#     - title: Reviewer
+#       institution: ICLR 2026; IEEE SLT Workshop 2024
+#       # year: 07. 2024
